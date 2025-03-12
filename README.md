@@ -28,7 +28,7 @@ A simple REST API built with Django and Django Rest Framework.
 
 ### Create a User
 
-- **URL** - http://127.0.0.1:8000/api/users/
+- **URL** - `http://127.0.0.1:8000/api/users/`
 - **Method** - POST
   ```json
   {
@@ -39,18 +39,18 @@ A simple REST API built with Django and Django Rest Framework.
   ```
 ### List All Users
 
-- **URL** - http://127.0.0.1:8000/api/users/
+- **URL** - `http://127.0.0.1:8000/api/users/`
 - **Method** - GET
 
 ### Retrieve a User
 
-- **URL** - http://127.0.0.1:8000/api/users/<id>/
+- **URL** - `http://127.0.0.1:8000/api/users/<id>/`
 - **Method** - GET
 
 
 ### Update a User
 
-- **URL** - http://127.0.0.1:8000/api/users/<id>/
+- **URL** - `http://127.0.0.1:8000/api/users/<id>/`
 - **Method** - PUT
   ```json
   {
@@ -62,6 +62,6 @@ A simple REST API built with Django and Django Rest Framework.
 
 ### Delete a User
 
-- **URL** - http://127.0.0.1:8000/api/users/<id>/
+- **URL** - `http://127.0.0.1:8000/api/users/<id>/`
 - **Method** - DELETE
 
